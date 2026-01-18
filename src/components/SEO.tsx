@@ -15,7 +15,7 @@ const SEO: React.FC<SEOProps> = ({
     description,
     keywords,
     image = '/logo.png',
-    url = 'https://paimon.tech',
+    url = 'https://www.paimontechsolutions.in',
     type = 'website'
 }) => {
     return (

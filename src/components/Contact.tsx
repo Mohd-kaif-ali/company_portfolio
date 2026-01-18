@@ -41,11 +41,11 @@ const Contact = () => {
                         <div className="space-y-6">
                             <div>
                                 <h3 className="font-bold text-foreground">Email</h3>
-                                <p className="text-muted-foreground">hello@paimon.tech</p>
+                                <p className="text-muted-foreground">career@paimontechsolutions.in</p>
                             </div>
                             <div>
                                 <h3 className="font-bold text-foreground">Location</h3>
-                                <p className="text-muted-foreground">Bangalore, India</p>
+                                <p className="text-muted-foreground">Mumbai, Maharashtra</p>
                             </div>
                         </div>
                     </div>
